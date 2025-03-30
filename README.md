@@ -1,2 +1,2 @@
 # Tribute
-tribute page varshini skill hub
+tribute page varshini skill hubs
